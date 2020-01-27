@@ -4,7 +4,7 @@ Base Url - At present, this application runs locally and is not hosted at a base
 
 Authentication: This version of this application doesn't require documentation
 
-##Error Handling
+## Error Handling
 Error are returned as JSON objects in the following formats:
 
 ```
