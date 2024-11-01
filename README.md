@@ -7,12 +7,15 @@ Authentication: This version of this application doesn't require documentation
 ## Error Handling
 Error are returned as JSON objects in the following formats:
 
+
+
 ```
 {
   'success': False
   'error': 400,
   'message'; 'bad request'
 }
+
 
 ```
 The API could return following error:
